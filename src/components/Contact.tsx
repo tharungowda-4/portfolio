@@ -205,7 +205,7 @@ const Contact = () => {
               </p>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/tharunkumar"
+                  href="https://github.com/tharungowda-4"
                   className="p-3 bg-gray-700/50 rounded-lg hover:bg-gray-600/50 transition-all duration-300 transform hover:scale-110"
                 >
                   <svg className="w-6 h-6 text-gray-300 hover:text-cyan-400" fill="currentColor" viewBox="0 0 20 20">
@@ -213,7 +213,7 @@ const Contact = () => {
                   </svg>
                 </a>
                 <a
-                  href="https://linkedin.com/in/tharunkumar"
+                  href="https://www.linkedin.com/in/tharun-kumar-010a8427b/"
                   className="p-3 bg-gray-700/50 rounded-lg hover:bg-gray-600/50 transition-all duration-300 transform hover:scale-110"
                 >
                   <svg className="w-6 h-6 text-gray-300 hover:text-cyan-400" fill="currentColor" viewBox="0 0 20 20">

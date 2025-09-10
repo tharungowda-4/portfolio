@@ -144,7 +144,7 @@ const Hero = () => {
         {/* RIGHT SIDE - Image */}
         <div className="flex justify-center md:justify-end">
           <img
-            src="public/d5765bd8-dbbf-4a3b-8a14-64cf6fe9a201_removalai_preview.png"
+            src="/avatar.png"
             alt="hero-graphic"
             className="w-64 md:w-80 lg:w-96 rounded-lg shadow-lg"
           />
