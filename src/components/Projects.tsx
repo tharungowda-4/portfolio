@@ -22,7 +22,7 @@ const Projects = () => {
       id: 2,
       title: "Expense Tracker Website",
       description: "Full-stack expense management application with Spring Boot backend and comprehensive API testing using Postman for reliable functionality.",
-      techStack: ["Spring Boot", "Java", "MySQL", "HTML/CSS", "JavaScript", "Postman"],
+      techStack: ["Spring Boot", "Java", "MySQL", "Postman" , "intelij"],
       features: [
         "User expense management",
         "Category-wise tracking",

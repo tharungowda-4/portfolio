@@ -4,22 +4,22 @@ const Achievements = () => {
   const certifications = [
     {
       title: "Core Java Programming",
-      issuer: "Oracle/Coursera",
-      date: "2023",
+      issuer: "Infosys springboard",
+      date: "2024",
       description: "Comprehensive understanding of Java fundamentals, OOP concepts, and advanced programming techniques.",
       icon: "☕"
     },
     {
       title: "Spring Boot Framework",
-      issuer: "Spring Academy",
-      date: "2023",
+      issuer: "Scalar",
+      date: "2025",
       description: "Mastery of Spring Boot for building enterprise-level applications and RESTful APIs.",
       icon: "🍃"
     },
     {
       title: "PHP Development",
-      issuer: "W3Schools/FreeCodeCamp",
-      date: "2023",
+      issuer: "Great Learning",
+      date: "2024",
       description: "Server-side scripting and web development using PHP with database integration.",
       icon: "🐘"
     }
@@ -112,11 +112,11 @@ const Achievements = () => {
             <div className="text-gray-400">Certifications</div>
           </div>
           <div className="text-center bg-gray-800/30 rounded-lg p-6 border border-gray-700/30">
-            <div className="text-3xl font-bold text-purple-400 mb-2">3+</div>
+            <div className="text-3xl font-bold text-purple-400 mb-2">2+</div>
             <div className="text-gray-400">Projects</div>
           </div>
           <div className="text-center bg-gray-800/30 rounded-lg p-6 border border-gray-700/30">
-            <div className="text-3xl font-bold text-pink-400 mb-2">8+</div>
+            <div className="text-3xl font-bold text-pink-400 mb-2">7+</div>
             <div className="text-gray-400">Technologies</div>
           </div>
           <div className="text-center bg-gray-800/30 rounded-lg p-6 border border-gray-700/30">

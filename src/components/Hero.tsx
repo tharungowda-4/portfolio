@@ -126,7 +126,7 @@ const Hero = () => {
             <span className="ml-1 animate-blink">|</span>
           </div>
 
-          <p className="text-lg md:text-xl text-gray-400 mb-8 max-w-xl">
+          <p className="text-lg md:text-xl text-gray-400 mb-8 max-w-xl"><br></br>
             Passionate about building scalable applications, exploring modern technologies,
             and delivering impactful solutions.
           </p>

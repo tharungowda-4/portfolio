@@ -26,7 +26,7 @@ const Skills = () => {
       title: "Programming Languages",
       skills: [
         { name: "Java", level: 80, color: "from-orange-400 to-red-400" },
-        { name: "SQL", level: 75, color: "from-green-400 to-blue-400" },
+       
         { name: "HTML/CSS", level: 70, color: "from-pink-400 to-red-400" },
         { name: "JavaScript", level:60, color: "from-yellow-400 to-orange-400" },
         { name: "PHP", level: 50, color: "from-purple-400 to-indigo-400" },
@@ -45,9 +45,9 @@ const Skills = () => {
       title: "Databases & Tools",
       skills: [
         { name: "MySQL", level: 80, color: "from-blue-400 to-cyan-400" },
-        { name: "Git", level: 85, color: "from-orange-400 to-red-400" },
+        { name: "MongoDB", level: 50, color: "from-orange-400 to-red-400" },
         { name: "VS Code", level: 90, color: "from-blue-400 to-purple-400" },
-        { name: "Postman", level: 85, color: "from-orange-400 to-yellow-400" }
+        { name: "Git", level: 85, color: "from-orange-400 to-yellow-400" }
       ]
     },
     {
