@@ -20,16 +20,16 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "Expense Tracker Website",
-      description: "Full-stack expense management application with Spring Boot backend and comprehensive API testing using Postman for reliable functionality.",
-      techStack: ["Spring Boot", "Java", "MySQL", "Postman" , "intelij"],
+      title: "Hospital management System",
+      description: "Full-stack hospital management application built with Spring Boot and React.js, featuring RESTful APIs for patient, doctor, and appointment management with seamless MySQL database integration..",
+      techStack: ["Spring Boot", "Java","React js" ,"MySQL", "Postman" , "intelij"],
       features: [
-        "User expense management",
-        "Category-wise tracking",
-        "Monthly/yearly reports",
-        "Secure authentication"
+        "Add, update, and view patient records efficiently.",
+        "Schedule and track patient appointments seamlessly",
+        "Manage doctor profiles, specializations, and schedules",
+        "Developed and tested APIs for CRUD operations using Postman"
       ],
-      githubLink: "https://github.com/tharungowda-4/dets-repo",
+      githubLink: "https://github.com/tharungowda-4/hospitalmanagementsystem",
       
     }
   ];
