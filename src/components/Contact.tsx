@@ -54,7 +54,7 @@ const Contact = () => {
         </svg>
       ),
       label: "Email",
-      value: "tharungowda562@gmail.com",
+      value: "ntharunkumar04@gmail.com",
       link: "mailto:tharunkumar@example.com"
     },
     {
