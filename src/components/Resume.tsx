@@ -4,7 +4,7 @@ const Resume = () => {
   const downloadResume = () => {
     // In a real application, this would download the actual resume file
     const link = document.createElement('a');
-    link.href = '/public/Tharun kumar N_resume[1].pdf';
+    link.href = '/public/Tharun kumar N_res.pdf';
     link.download = 'Tharun_Kumar_Resume.pdf';
     link.click();
   };

@@ -6,16 +6,16 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "RESTful API Creation",
-      description: "Comprehensive backend API design and implementation using Spring Boot framework with proper REST conventions, error handling, and documentation.",
-      techStack: ["Spring Boot", "Java", "REST API", "Maven", "Postman"],
+      title: "Full stack Authentication App",
+      description: "Full-stack Auth System using React, Node.js, and MongoDB. Features JWT cookie-based sessions, Bcrypt hashing, Joi validation, and Nodemailer OTP verification. Includes protected routes and Bootstrap UI.",
+      techStack: ["Node.js","React.js", "Javascript", "Express.js","REST API","Postman"],
       features: [
-        "CRUD operations with proper HTTP methods",
-        "Error handling and validation",
-        "API documentation",
+        "Advanced Security Process",
+        "Server-Side Validation:",
+        "Automated State Handling",
         "Database integration"
       ],
-      githubLink: "https://github.com/tharungowda-4/RestAPI",
+      githubLink: "https://github.com/tharungowda-4/Fullstack-auth-app",
       
     },
     {

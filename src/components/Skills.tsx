@@ -26,17 +26,17 @@ const Skills = () => {
       title: "Programming Languages",
       skills: [
         { name: "Java", level: 80, color: "from-orange-400 to-red-400" },
-       { name: "C#", level: 70, color: "from-yellow-400 to-green-400" },
-        { name: "HTML/CSS", level: 65, color: "from-pink-400 to-red-400" },
-        { name: "JavaScript", level:60, color: "from-yellow-400 to-orange-400" },
-        { name: "PHP", level: 50, color: "from-purple-400 to-indigo-400" },
-        { name: "Python", level: 45, color: "from-green-400 to-yellow-400" }
+       { name: "JavaScript", level: 70, color: "from-yellow-400 to-green-400" },
+        { name: "C#", level: 65, color: "from-pink-400 to-red-400" },
+        { name: "Python", level: 50, color: "from-green-400 to-yellow-400" },
+        { name: "PHP", level: 40, color: "from-orange-400 to-blue-400" }
       ]
     },
     {
       title: "Frameworks & Libraries",
       skills: [
         { name: "Spring Boot", level: 70, color: "from-green-400 to-emerald-400" },
+        { name: "Node.js", level: 65, color: "from-cyan-400 to-red-400" },
         { name: "React.js", level: 50, color: "from-cyan-400 to-blue-400" }
         
       ]
@@ -44,8 +44,8 @@ const Skills = () => {
     {
       title: "Databases & Tools",
       skills: [
-        { name: "MySQL", level: 80, color: "from-blue-400 to-cyan-400" },
-        { name: "MongoDB", level: 70, color: "from-orange-400 to-red-400" },
+        { name: "MySQL", level: 90, color: "from-blue-400 to-cyan-400" },
+        { name: "MongoDB", level: 85, color: "from-orange-400 to-red-400" },
         { name: "VS Code", level: 90, color: "from-blue-400 to-purple-400" },
         { name: "Git", level: 85, color: "from-orange-400 to-yellow-400" }
       ]
@@ -53,7 +53,8 @@ const Skills = () => {
     {
       title: "Currently Learning",
       skills: [
-        { name: ".NET", level: 20, color: "from-green-400 to-lime-400" },
+        { name: "Devops[CI/CD]", level: 30, color: "from-green-400 to-lime-400" },
+        { name: "Cloud Computing", level: 15, color: "from-purple-400 to-brown-400" },
       ]
     }
   ];
