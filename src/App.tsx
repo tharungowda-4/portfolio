@@ -10,6 +10,7 @@ import Resume from './components/Resume';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import './styles/animations.css';
+import Experience from './components/Experience';
 
 export default function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -40,6 +41,7 @@ export default function App() {
         <Navbar />
         <Hero />
         <About />
+        <Experience/>
         <Projects />
         <Skills />
         <Achievements />

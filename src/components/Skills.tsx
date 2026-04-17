@@ -29,32 +29,37 @@ const Skills = () => {
        { name: "JavaScript", level: 70, color: "from-yellow-400 to-green-400" },
         { name: "C#", level: 65, color: "from-pink-400 to-red-400" },
         { name: "Python", level: 50, color: "from-green-400 to-yellow-400" },
-        { name: "PHP", level: 40, color: "from-orange-400 to-blue-400" }
+
       ]
     },
     {
       title: "Frameworks & Libraries",
       skills: [
-        { name: "Spring Boot", level: 70, color: "from-green-400 to-emerald-400" },
-        { name: "Node.js", level: 65, color: "from-cyan-400 to-red-400" },
-        { name: "React.js", level: 50, color: "from-cyan-400 to-blue-400" }
+        { name: "Spring Boot", level: 85, color: "from-green-400 to-emerald-400" },
+        { name: "Node.js", level: 80, color: "from-emerald-400 to-blue-400" },
+        { name: "React.js", level: 70, color: "from-blue-400 to-yellow-400" },
+        { name: "Express.js", level: 70, color: "from-yellow-400 to-red-400" },
+        { name: "Typescript", level: 60, color: "from-red-400 to-green-400" },
         
       ]
     },
     {
-      title: "Databases & Tools",
+      title: "Databases",
       skills: [
         { name: "MySQL", level: 90, color: "from-blue-400 to-cyan-400" },
-        { name: "MongoDB", level: 85, color: "from-orange-400 to-red-400" },
-        { name: "VS Code", level: 90, color: "from-blue-400 to-purple-400" },
-        { name: "Git", level: 85, color: "from-orange-400 to-yellow-400" }
+        { name: "postgreseSQL", level: 80, color: "from-cyan-400 to-orange-400" },
+        { name: "MongoDB", level: 70, color: "from-orange-400 to-red-400" },
+        { name: "keycloak", level: 60, color: "from-green-400 to-violet-400" },
       ]
     },
     {
-      title: "Currently Learning",
+      title: "Tools",
       skills: [
-        { name: "Devops[CI/CD]", level: 30, color: "from-green-400 to-lime-400" },
-        { name: "Cloud Computing", level: 15, color: "from-purple-400 to-brown-400" },
+         { name: "VS Code", level: 90, color: "from-yellow-400 to-red-400" },
+        { name: "IntelliJ IDEA", level: 90, color: "from-purple-400 to-brown-400" },
+        { name: "Postman", level: 85, color: "from-orange-400 to-lightred-400" },
+        { name: "Git", level: 85, color: "from-pink-400 to-lavender-400" },
+        { name: "Docker", level: 50, color: "from-blue-400 to-pink-400" }
       ]
     }
   ];

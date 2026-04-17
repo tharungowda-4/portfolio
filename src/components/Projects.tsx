@@ -31,7 +31,20 @@ const Projects = () => {
       ],
       githubLink: "https://github.com/tharungowda-4/hospitalmanagementsystem",
       
-    }
+    },
+    {
+  id: 3,
+  title: "Employee Management System",
+  description: "A comprehensive full-stack CRUD application for organizational data management. Developed during the internship to master professional data workflows and UI responsiveness.",
+  techStack: ["Java", "Spring Boot", "React.js", "MySQL", "JPA", "Bootstrap"],
+  features: [
+    "Full CRUD operations with automated ID generation.",
+    "Dynamic data management using MySQL and JPA.",
+    "Responsive admin dashboard with Bootstrap UI.",
+    "API lifecycle testing and documentation via Postman."
+  ],
+  githubLink: "https://github.com/tharungowda-4/Emplist"
+}
   ];
 
   return (
